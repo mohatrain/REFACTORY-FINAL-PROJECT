@@ -200,6 +200,8 @@ img {
   opacity: 1;
   top: 50%;
 }
+/* LOGO IN THE HEAD */
+
 
 /* TEAM */
 .team-member-content {
@@ -220,6 +222,11 @@ img {
 }
 
 /* CONTACT */
+#get-in-touch{
+  /* background-color:rgba(0, 0, 0, 0.5); */
+  text-shadow:2px 2px #4e57d4;
+
+}
 #contact {
   position: relative;
   z-index: 2;
