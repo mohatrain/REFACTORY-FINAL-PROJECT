@@ -182,6 +182,7 @@ img {
     url(../images/counter.jpg);
   background-position: center;
   background-size: cover;
+  color:#e6b30e;
 }
 
 /* PORTFOLIO */
@@ -298,3 +299,4 @@ footer .line {
   background-color: var(--c-brand);
   color: white;
 }
+
